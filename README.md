@@ -5,8 +5,7 @@
 
 👩‍💻 I'm currently working on personal projects to improve my development skills
 
-🧠 I'm currently learning javascript on coursera and zuri training
-
+🧠 I'm currently learning software engineering on alx mastercard 
 
 👯‍♀️ I'm looking to collaborate on website projects 
 
