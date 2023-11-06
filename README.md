@@ -1,32 +1,34 @@
+# Hi there, I'm Oti Favour! 👋
 
-# Hi, I'm Oti Favour! 👋
+👩‍💻 I'm a Front End Web Developer currently working at Layer3, specializing in building responsive websites and web applications.
 
+🌱 I'm passionate about continuous learning and I'm constantly improving my skills through online courses.
 
+👯‍♀️ I'm open to collaborating on exciting web projects. Feel free to reach out!
 
-👩‍💻 I'm currently working on personal projects to improve my development skills
+💬 Ask me about React, Bootstrap, JavaScript, HTML, CSS, or any web development-related topic.
 
-🧠 I'm currently learning software engineering on ALX MasterCard program
+📧 You can get in touch with me via email: favourgraceoti@gmail.com
 
-👯‍♀️ I'm looking to collaborate on website projects 
-
-🤔 I'm looking for help with volunteer and internship programs to learn more
-
-💬 Ask me about html; css and website development
-
-📫 How to reach me by email : favourgraceoti@gamil.com
-
-😄 Pronouns she/her
+😄 Pronouns: She/Her
 
 ## 🚀 About Me
-I'm an entry level front end web developer
+I'm an experienced Front End Web Developer with a strong foundation in web technologies. My focus is on creating visually appealing, user-friendly, and performant web applications.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://website-task.oti-favour.repl.co/)
+## 💼 Experience
+- **Front End Web Developer** at Layer3
+  - Building responsive and user-friendly web applications.
+  - Specializing in React, Bootstrap, and JavaScript.
+  - Collaborating with cross-functional teams to deliver high-quality web solutions.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oti-favour/)
-
+## 🔗 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oti-favour/)
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
-
-
+- React
+- Bootstrap
+- JavaScript
+- HTML
+- CSS
+- Web Development
+- Responsive Design
