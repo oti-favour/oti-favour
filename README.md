@@ -17,9 +17,9 @@ I'm an experienced Front End Web Developer with a strong foundation in web techn
 
 ## 💼 Experience
 
-- **Front End Web Developer** at Layer3
+- **Front End Web Developer**
   - Building responsive and user-friendly web applications.
-  - Specializing in React, Bootstrap, and JavaScript.
+  - Specializing in NextJS, Typescript.
   - Collaborating with cross-functional teams to deliver high-quality web solutions.
 
 ## 🔗 Connect with Me
