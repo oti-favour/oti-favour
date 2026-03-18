@@ -26,10 +26,4 @@ I'm an experienced Front End Web Developer with a strong foundation in web techn
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oti-favour/)
 
 ## 🛠 Skills
-- React
-- Bootstrap
-- JavaScript
-- HTML
-- CSS
-- Web Development
-- Responsive Design
+React, Next.js, TypeScript, JavaScript, Flutter, Dart, Redux Toolkit, TanStack Query, Tailwind CSS, Framer Motion, Firebase, REST APIs, Git, Figma
